@@ -1,0 +1,14 @@
+{
+  "name": "conselho-poliglota-bot",
+  "version": "1.0.0",
+  "description": "Um bot para conselhos de aprendizado de idiomas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Vitor",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
