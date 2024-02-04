@@ -6,6 +6,7 @@
 
 Esse projeto se refere a uma aplicação simples em NodeJS de um bot do Telegram que dá conselhos aleatórios para aprender um novo idioma.
 
+![conselho](bot_conselho_poliglota.gif)
 
 ## 🛠️ Funcionalidades
 
